@@ -5,7 +5,7 @@ A Go Implements Components library
 * RateLimiter ✅
 * LKQueue(lock-free queue)✅
 * CQueue(two-lock)✅
-* SliceQueue(slice-based queue)
+* SliceQueue(slice-based queue)✅
 * CircuitBreaker
 * RingBuffer
 * LRU
