@@ -6,7 +6,7 @@ A Go Implements Components library
 * LKQueue(lock-free queue)✅
 * CQueue(two-lock)✅
 * SliceQueue(slice-based queue)✅
-* CircuitBreaker
+* CircuitBreaker    
 * RingBuffer
 * LRU
 * LFU
