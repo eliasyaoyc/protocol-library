@@ -21,5 +21,5 @@ A Go Implements Components library
 * quic
 * http/2 : https://github.com/eliasyaoyc/minimalist-http2
 * websocket : https://github.com/eliasyaoyc/minimalist-websocket
-* cmcc : https://github.com/eliasyaoyc/cmcc
+* cmpp : https://github.com/eliasyaoyc/cmpp
 * smtp : https://github.com/eliasyaoyc/simple-smtp
