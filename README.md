@@ -6,3 +6,4 @@ Collect the implemenant of various protocols,see follows:
 * websocket : https://github.com/eliasyaoyc/minimalist-websocket
 * cmpp : https://github.com/eliasyaoyc/cmpp
 * smtp : https://github.com/eliasyaoyc/simple-smtp
+* raft: https://github.com/eliasyaoyc/siran_raft
